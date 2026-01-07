@@ -1,0 +1,5 @@
+Eligibility Criteria:
+- Minimum CGPA required is 6.0.
+- Students should not have any active backlogs.
+- Basic knowledge of programming is expected.
+- Final year students are eligible to apply.
